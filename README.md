@@ -4,7 +4,7 @@ edk2 shell applications
 ## Toolchain
 ### Visual Studio 2019 community: https://learn.microsoft.com/zh-tw/visualstudio/releases/2019/release-notes
 ### Python 3.7.9: https://www.python.org/downloads/release/python-379/
-### NASM(not used): https://www.nasm.us/pub/nasm/releasebuilds/2.14.02/win64/
+### NASM: https://www.nasm.us/pub/nasm/releasebuilds/2.14.02/win64/
 ### ASL(not used): https://acpica.org/downloads/binary-tools
 ## Setup
 ### install "git": https://git-scm.com/downloads
