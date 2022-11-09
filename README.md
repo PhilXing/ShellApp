@@ -17,5 +17,6 @@ edk2 shell applications
 ### run "edk2\edksetup.bat Rebuild" to make base tools.
 ## Building shell application
 ### run "buildapp.bat" to build ShellApp.
-
+## Clean.bat
+### will remove basetool binaries and build folder, install "make.exe" (run "choco install make") before run it: https://chocolatey.org/install
 # Ubuntu insturctions
