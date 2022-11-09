@@ -10,7 +10,7 @@
                 "command": "./buildapp.bat",
             },
             "linux": {
-                "command": "./buildapp.sh",
+                "command": "bash buildapp.sh",
             },
             "problemMatcher": [],
             "group": {
